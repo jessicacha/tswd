@@ -1,4 +1,4 @@
 # About me
 Hi! I am Jessica. I am studying Integrated Innovation at [iii](https://www.cmu.edu/iii/index.html) which is known for its interdisciplinary education. I love bringing global users an ultimate product experience so I focus on understanding their needs and customize product features for them. In addition to my business background, I am learning about design thinking, data science and engineering skills that will allow me to launch successful global products.
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="jescha"><a class="LI-simple-link" href='https://www.linkedin.com/in/jescha?trk=profile-badge'>Jessica Cha</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="jescha"><a class="LI-simple-link" href='https://www.linkedin.com/in/jescha?trk=profile-badge'>Jessica Cha</a></div>
