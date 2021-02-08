@@ -5,4 +5,4 @@ Hi! I am Jessica. I am studying **Integrated Innovation** at [iii](https://www.c
 # <span style="color:#9797C1">What I hope to learn</span>
 In a professional setting, I realized the importance of organizing and displaying the data to tell compelling stories to the management. Also nicely designed data visualizations enable us to discover new insights otherwise we wouldn’t be able to notice. From this class, I would like to learn how to visualize data with appropriate colors and different types of charts to deliver my thoughts impactfully to the audiences. I expect I will also gain basic markup/HTML skills while I am creating my portfolio. (I feel like I already learned a lot!)
 # <span style="color:#9797C1">Portfolio</span>
-Coming Soon
+Coming Soon...
