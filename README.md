@@ -1,2 +1,2 @@
 # Telling stories with data project
-## This is my **first** project
+## This is my <span style="color:red">First</span> project
