@@ -8,3 +8,5 @@ In a professional setting, I realized the importance of organizing and displayin
 ### 1. A comparison of government pension spendings
 <iframe title="[ Brazil's golden oldie blowout ]" aria-label="chart" id="datawrapper-chart-XqnwK" src="https://datawrapper.dwcdn.net/XqnwK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 50% !important; border: none;" height="401"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+### 2. Seattle King County Covid-19 cases
+<div class="flourish-embed flourish-chart" data-src="visualisation/5255812"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
