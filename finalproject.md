@@ -5,5 +5,5 @@
 ### Sketches
 
 ### Data
-
+[Link](WHR20data.xls)
 ### Method and Medium
