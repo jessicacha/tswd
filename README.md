@@ -11,4 +11,4 @@ In a professional setting, I realized the importance of organizing and displayin
 ## 2. Seattle King County Covid-19 cases
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255812" data-width="50%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## 3. Government debt
-You can see the visualizations [here](https://jessicacha.github.io/tswd/governmentdebt)
+You can see the visualizations [here](https://jessicacha.github.io/tswd/governmentdebt){:target="_blank" rel="noopener"}
