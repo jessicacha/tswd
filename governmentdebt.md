@@ -7,3 +7,4 @@ With debt levels around two and a half times the size of its economy, Japan mana
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283905"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 ## 3. A Threat to the Livelihood of the EU?
 The economic troubles of Portugal, Italy, Greece, and Spain reignited debate about the efficacy of the single currency employed among the eurozone nations by casting doubts on the notion that the European Union can maintain a single currency while attending to the individual needs of each of its member countries. [Investopia](https://www.investopedia.com/terms/p/piigs.asp){:target="_blank" rel="noopener"}
+<div class="flourish-embed flourish-chart" data-src="visualisation/5284256"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
