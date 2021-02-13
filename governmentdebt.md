@@ -1,6 +1,7 @@
 # Government debt visualizations
 ## 1. Japan's debt mountain: How is it sustainable?
 With debt levels around two and a half times the size of its economy, Japan manages to keep government bond yields ultra low and investor confidence high that it can avoid default.
+[Bangkok Post](https://www.bangkokpost.com/business/1932556/japans-debt-mountain-how-is-it-sustainable-)
 <iframe src="https://data.oecd.org/chart/6gJW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 1995 – 2019</a></iframe>
 ## 2. Government debt trends
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283905"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
