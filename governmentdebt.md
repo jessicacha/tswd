@@ -1,3 +1,3 @@
-# A Threat to the Livelihood of the EU?
+# 1. A Threat to the Livelihood of the EU?
 The economic troubles of Portugal, Italy, Ireland, Greece, and Spain reignited debate about the efficacy of the single currency employed among the eurozone nations by casting doubts on the notion that the European Union can maintain a single currency while attending to the individual needs of each of its member countries. [Investopia](https://www.investopedia.com/terms/p/piigs.asp){:target="_blank" rel="noopener"}
 <iframe src="https://data.oecd.org/chart/6gIQ" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gIQ" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2007 – 2019</a></iframe>
