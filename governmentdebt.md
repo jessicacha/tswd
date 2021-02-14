@@ -1,11 +1,11 @@
 # Government debt visualizations
-## 1. Government debt trends
+## 1. Which government borrowed the most? 
 The government debt has been increasing in most of the countries. Among other countries, the rising trends of Japan, USA and some of the European countries are noticable. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283905"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-## 2. Japan's debt mountain: How is it sustainable?
+## 2. Is Japan's economy sustainable?
 Japan carries a colossal level of government debt that is about 2.3 times higher than its GDP. To mitigate this crisis, Japan keeps government bond yields extremely low and the confidence level of investors high so that it can avoid default. [Bangkok Post](https://www.bangkokpost.com/business/1932556/japans-debt-mountain-how-is-it-sustainable-){:target="_blank" rel="noopener"}
 <iframe src="https://data.oecd.org/chart/6gJW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 1995 – 2019</a></iframe>
-## 3. A Threat to the Livelihood of the EU?
+## 3. A Threat to the Eurozone?
 Eurozone countries are casting doubts on the single currency policy due to the economic troubles that PIGS (Portugal, Italy, Greece, and Spain) are experiencing now. They are also skeptical about the fact that they are not able to adjust their economic policy in a way that suits the country's economic needs. [Investopia](https://www.investopedia.com/terms/p/piigs.asp){:target="_blank" rel="noopener"}
 <div class="flourish-embed flourish-chart" data-src="visualisation/5284256"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Southern Europe struggles in the wake of the government debt crisis.
