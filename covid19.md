@@ -11,7 +11,7 @@ I found these data visualizations in [ConnPIRG](https://connpirg.org/blogs/covid
 
 ## 2. Wireframe a solution
 
-![Wireframe](wireframe.jpg)
+![sketch](sketch.jpg)
 
 ### (1) The first graph
 1) I have marked the reopening dates in different sections not to interfere with the graphs. Also doing so will eliminate the redundancies and overlapping in the text labels. <br/>
