@@ -1,5 +1,6 @@
-COVID-19 case trend after reopening
-# original data visualizations
+# COVID-19 case trend after reopening
+
+## 1. Original data visualizations
 
 
 <div class='tableauPlaceholder' id='viz1613844633688' style='position: relative'>
