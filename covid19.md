@@ -14,15 +14,15 @@ The second graph
 ![Wireframe](wireframe.jpg)
 
 ### (1) The first graph
-1) I have marked the reopening dates in different sections not to interfere with the graphs. Also doing so will eliminate the redundancies and overlapping in the text labels. 
-2) I have excluded Colorado from the graph because it does not show any impactful trend that is helpful in telling the story. 
-3) I have added the case number per 100K at the time of reopening date, as this would be the critical criteria in determining the reopening. According to this article, the public health experts said the cases should be less than 1 per 100K for the safe reopening. The message that the US states did not follow the recommendations had to be clearly delivered.
-4) I have removed the goal (Y=1) from the graph. The graph will be located too low which might be difficult to catch. I can supplement this information using the subtitle. 
+1) I have marked the reopening dates in different sections not to interfere with the graphs. Also doing so will eliminate the redundancies and overlapping in the text labels. <br/>
+2) I have excluded Colorado from the graph because it does not show any impactful trend that is helpful in telling the story. <br/>
+3) I have added the case number per 100K at the time of reopening date, as this would be the critical criteria in determining the reopening. According to this article, the public health experts said the cases should be less than 1 per 100K for the safe reopening. The message that the US states did not follow the recommendations had to be clearly delivered.<br/>
+4) I have removed the goal (Y=1) from the graph. The graph will be located too low which might be difficult to catch. I can supplement this information using the subtitle. <br/>
 
 ### (2) The second graph
-1) I will display the second graph side-by-side to the first graph, to compare the policies. 
-2) I removed New Zealand and Australia from the graph as they do not show the similar case number as the US. On the other hand, Spain and Italy had similar trends before shutdown but showed significantly different outcomes owing to the reopening policy that started when the case number was down to near 1. 
-3) Other arrangements in displaying elements will be similar to the first graph, for consistency. 
+1) I will display the second graph side-by-side to the first graph, to compare the policies. <br/>
+2) I removed New Zealand and Australia from the graph as they do not show the similar case number as the US. On the other hand, Spain and Italy had similar trends before shutdown but showed significantly different outcomes owing to the reopening policy that started when the case number was down to near 1. <br/>
+3) Other arrangements in displaying elements will be similar to the first graph, for consistency. <br/>
 
 ## 3. Test the solution
 
@@ -79,7 +79,7 @@ I came up with some solutions to improve intuitiveness and perceptibility. As a 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
+<br/>
 I used Tableau to build a new visualization. Tableau was the most versatile tool to manipulate the data into different durations and dimensions. Because of this feature, it was immensely useful in displaying the data by weekly average. Also the annotation tool was flexible enough to display the texts to wherever the information should be displayed. I selected the line chart as it was the most appropriate method to show time series data. 
 
 I worked to improve my initial wireframing using the ideas gleaned from the user interview and self critique score mentioned above. I also changed the title of the graph so that it will add more context to the visualization  - “What went wrong with the US reopening policy?”. Using the subtitle, I illustrated what would have been the correct approach toward the reopening. I displayed 6 graphs side by side, and clearly marked the reopening date and the case number at that time. Now I see 4 US states had reopened when the case number was much higher than 1 and then there were outbreaks after that. On the other hand, Italy and Spain took different strategies and finally managed to control the case numbers. 
