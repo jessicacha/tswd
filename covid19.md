@@ -1,4 +1,4 @@
-# COVID-19 case trend after reopening
+# COVID-19 case trend after reopening (2020)
 
 ## 1. Find a data visualization
 I found these data visualizations in [ConnPIRG](https://connpirg.org/blogs/covid-19/usp/what-went-wrong-first-covid-19-shutdown){:target="_blank" rel="noopener"} which advocates for the public interest. The author is criticizing the US government’s shutdown and reopening policy against COVID-19, by comparing it with different governments. The overall problem of the story is that the visualizations are not compiled together to deliver the author’s message coherently. The visualization itself also contains many glaring problems (The details were covered in the critique assignment). Among many visualizations, I have selected two visualizations below to improve and integrate into one chart. 
