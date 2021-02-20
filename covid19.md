@@ -2,6 +2,9 @@
 
 ## 1. Original data visualizations
 
+![State](state.png)
+![Country](country.png)
+
 
 <div class='tableauPlaceholder' id='viz1613844633688' style='position: relative'>
   <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;HW&#47;HW4_16138445473640&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript>
