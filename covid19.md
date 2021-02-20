@@ -79,6 +79,7 @@ I came up with some solutions to improve intuitiveness and perceptibility. As a 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 I used Tableau to build a new visualization. Tableau was the most versatile tool to manipulate the data into different durations and dimensions. Because of this feature, it was immensely useful in displaying the data by weekly average. Also the annotation tool was flexible enough to display the texts to wherever the information should be displayed. I selected the line chart as it was the most appropriate method to show time series data. 
 
 I worked to improve my initial wireframing using the ideas gleaned from the user interview and self critique score mentioned above. I also changed the title of the graph so that it will add more context to the visualization  - “What went wrong with the US reopening policy?”. Using the subtitle, I illustrated what would have been the correct approach toward the reopening. I displayed 6 graphs side by side, and clearly marked the reopening date and the case number at that time. Now I see 4 US states had reopened when the case number was much higher than 1 and then there were outbreaks after that. On the other hand, Italy and Spain took different strategies and finally managed to control the case numbers. 
