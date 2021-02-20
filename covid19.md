@@ -3,15 +3,14 @@
 ## 1. Find a data visualization
 I found these data visualizations in [ConnPIRG](https://connpirg.org/blogs/covid-19/usp/what-went-wrong-first-covid-19-shutdown){:target="_blank" rel="noopener"} which advocates for the public interest. The author is criticizing the US government’s shutdown and reopening policy against COVID-19, by comparing it with different governments. The overall problem of the story is that the visualizations are not compiled together to deliver the author’s message coherently. The visualization itself also contains many glaring problems (The details were covered in the critique assignment). Among many visualizations, I have selected two visualizations below to improve and integrate into one chart. 
 
-The first graph
+### (1) The first graph
 ![State](state.png)
 
-The second graph
+### (2) The second graph
 ![Country](country.png)
 
 ## 2. Wireframe a solution
 
-![Wireframe](wireframe.jpg)
 
 ### (1) The first graph
 1) I have marked the reopening dates in different sections not to interfere with the graphs. Also doing so will eliminate the redundancies and overlapping in the text labels. <br/>
