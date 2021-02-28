@@ -3,7 +3,7 @@
 The World Happiness Report tries to understand how different factors in our lives affect our happiness. I would like to talk about the inequalities of happiness scores throughout the different continents and countries. I will closely look into the relationship between GDP and Life expectancy, which are the most related factors of the happiness score. Finally, in the call-to-action section, I will connect this inequality in happiness to the inequality in the COVID vaccine distribution caused by different buying powers of each country. 
 
 ## <span style="color:#B07EB4">The data</span>
-Before I plotted the outline, I had run some exploratory analysis using Python. From Python, I was able to identify meaningful statistics that I eventually used in my storytelling. 
+Before I plotted the outline, I had run some ![exploratory analysis](WHR.html) using Python. From Python, I was able to identify meaningful statistics that I eventually used in my storytelling. 
 
 ### 1. Happiness Score
 
@@ -47,7 +47,7 @@ How is the inequality serious and set in our lives? What would be the determinan
 
 ### 4. Call to action: COVID-19 vaccine inequality
 1. News articles: There are many news articles stating the disparity. I can quote some of the key messages in a couple of articles. 
-“More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023 - The economists”
+*“More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023”*
 Source: [The Economics](https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/){:target="_blank" rel="noopener"}
 2. Vaccine availability map: The inequality heat map exactly looks similar to the world happiness score heat map. I will compare them side-by-side, forecasting the decreased life expectancy might drop poor countries’ happiness score even more.
 3. Bar graph on social support score: I will wrap up my story by showing disparities in the social support score. Some of Asian countries and African countries cannot expect social support from their community. I would like to urge vaccine companies or the rich governments to be more considerate in distributing and purchasing vaccines. “We need to be their friendly neighbors”
