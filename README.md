@@ -28,3 +28,6 @@ You can see the visualizations [here](https://jessicacha.github.io/tswd/governme
 ## 4. COVID-19 case trend after reopening
 
 You can see the visualizations [here](https://jessicacha.github.io/tswd/covid19){:target="_blank" rel="noopener"}.
+
+## 5. World Happiness (Final project)
+You can see my project [here](https://jessicacha.github.io/tswd/finalproject){:target="_blank" rel="noopener"}.
