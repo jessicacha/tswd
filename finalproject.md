@@ -61,7 +61,8 @@ How is the inequality serious and set in our lives? What would be the determinan
 *“More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023”*<br/>
 Source: [The Economics](https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/){:target="_blank" rel="noopener"}
 2. Vaccine availability map: The vaccine inequality heat map from The Economics exactly looks similar to the world happiness score heat map. I will compare them side-by-side, forecasting the decreased life expectancy might drop poor countries’ happiness score even more.
-[chart!](vis_vaccine2.jpg)
+![chart](vis_vaccine2.jpg)
+
 3. Bar graph on social support score: I will wrap up my story by showing disparities in the social support score. Some of Asian countries and African countries cannot expect social support from their community. I would like to urge vaccine companies or the rich governments to be more considerate in distributing and purchasing vaccines. “We need to be their friendly neighbors”.
 
 ![chart](vis_social support.png)
