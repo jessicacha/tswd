@@ -34,7 +34,9 @@ Source: [Launch & Scale Speedometer](https://launchandscalefaster.org/COVID-19){
 ### 1. Overall world happiness score
 If we look at the total world happiness score, it looks like our lives are getting happier recently. However, would it be true for all countries?
 1. Happiness score line chart from 2010-2019 for all countries: The graph shows the overall world happiness score has been increasing.
+![chart](vis_line chart.png)
 2. World heat map: However, it is clear that the happiness score shows inequalities among different countries.
+![chart](vis_world heat_happy.png)
 
 ### 2. Gaps between countries
 How is the inequality serious and set in our lives? What would be the determinants? 
