@@ -20,21 +20,21 @@ I analyzed the data used in the World Happiness Report (WHR) from 2005 to 2019. 
 - **Generosity**: the residual of regressing national average of response to the question “Have you donated money to a charity in the past month?” on GDP per capita. (Yes 1, No 0)
 - **Corruption**: the average of answers to two questions: “Is corruption widespread throughout the government or not” and “Is corruption widespread within businesses or not?” (Yes 1, No 0)
 
-Source: [Github](https://github.com/jessicacha/tswd/blob/main/WHR20data.xls){:target="_blank" rel="noopener"}
+Source: [Github](https://github.com/jessicacha/tswd/blob/main/WHR20data.xls){:target="_blank" rel="noopener"}<br/>
 Original source: [WHR website](https://worldhappiness.report/ed/2020/#read){:target="_blank" rel="noopener"}
 
 ### 2. Vaccine availability
 
 Vaccine availability map: Launch & Scale Speedometer released the timeline of COVID vaccine procurement deals as a tableau visualization. Because I will only use this data as a supplement material in the call-to-action section, I am planning to embed this Tableau visualization in the story and clearly specify the source. 
 
-Source: https://launchandscalefaster.org/COVID-19
+Source: [Launch & Scale Speedometer](https://launchandscalefaster.org/COVID-19){:target="_blank" rel="noopener"}
 
 ## <span style="color:#B07EB4">Initial Sketches</span>
 
 ### 1. Overall world happiness score
 If we look at the total world happiness score, it looks like our lives are getting happier recently. However, would it be true for all countries?
-1) Happiness score line chart from 2010-2019 for all countries: The graph shows the overall world happiness score has been increasing. 
-2) World heat map: However, it is clear that the happiness score shows inequalities among different countries.
+1. Happiness score line chart from 2010-2019 for all countries: The graph shows the overall world happiness score has been increasing.
+2. World heat map: However, it is clear that the happiness score shows inequalities among different countries.
 
 ### 2. Gaps between countries
 How is the inequality serious and set in our lives? What would be the determinants? 
