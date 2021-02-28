@@ -38,19 +38,19 @@ If we look at the total world happiness score, it looks like our lives are getti
 
 ### 2. Gaps between countries
 How is the inequality serious and set in our lives? What would be the determinants? 
-1) Animated line chart for each country (or continent): From the chart, we can see that the rankings of countries would not change for 15 years. 
-2) Radar chart showing different combinations of factors (Finland, China, Afghanistan): We can see the different combination of 6 factors for Finland (high rank), China (mid rank) and Afghanistan (low rank). Then, what would be the most important determinants?
+1. Animated line chart for each country (or continent): From the chart, we can see that the rankings of countries would not change for 15 years. 
+2. Radar chart showing different combinations of factors (Finland, China, Afghanistan): We can see the different combination of 6 factors for Finland (high rank), China (mid rank) and Afghanistan (low rank). Then, what would be the most important determinants?
 
 ### 3. Correlation between factors
-1) Correlation heat map: The map shows GDP, social support and life expectancy have the most strong correlations to the happiness score. Also GDP and life expectancy shows the strong correlation among themselves. 
-2) Animated scatter plot between GDP-Life expectancy: The correlation map shows a very strong tendency among different continents. Also this disparity has never been improved throughout the years. 
+1. Correlation heat map: The map shows GDP, social support and life expectancy have the most strong correlations to the happiness score. Also GDP and life expectancy shows the strong correlation among themselves. 
+2. Animated scatter plot between GDP-Life expectancy: The correlation map shows a very strong tendency among different continents. Also this disparity has never been improved throughout the years. 
 
 ### 4. Call to action: COVID-19 vaccine inequality
-1) News articles: There are many news articles stating the disparity. I can quote some of the key messages in a couple of articles. 
+1. News articles: There are many news articles stating the disparity. I can quote some of the key messages in a couple of articles. 
 “More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023 - The economists”
 Source: [The Economics](https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/){:target="_blank" rel="noopener"}
-2) Vaccine availability map: The inequality heat map exactly looks similar to the world happiness score heat map. I will compare them side-by-side, forecasting the decreased life expectancy might drop poor countries’ happiness score even more. 
-3) Bar graph on social support score: I will wrap up my story by showing disparities in the social support score. Some of Asian countries and African countries cannot expect social support from their community. I would like to urge vaccine companies or the rich governments to be more considerate in distributing and purchasing vaccines. “We need to be their friendly neighbors”
+2. Vaccine availability map: The inequality heat map exactly looks similar to the world happiness score heat map. I will compare them side-by-side, forecasting the decreased life expectancy might drop poor countries’ happiness score even more.
+3. Bar graph on social support score: I will wrap up my story by showing disparities in the social support score. Some of Asian countries and African countries cannot expect social support from their community. I would like to urge vaccine companies or the rich governments to be more considerate in distributing and purchasing vaccines. “We need to be their friendly neighbors”
 
 ## <span style="color:#B07EB4">Method and Medium</span>
 
@@ -60,6 +60,6 @@ I am going to use Shorthand as my storytelling platform. I might use a not-for-p
 ### 2. Visualization platform
 I will use 3 visualization tools below in different visualizations. As each tool has its own strength, I am going to use the most suitable visualization tool for each graph. Since Tableau and Flourish offers iframe code, I will embed them into the shorthand. The heat map from python will be inserted as an image. 
 
-1) Tableau: Line chart from 2010-2019 for all countries, World heat map, Bar graph on social support score
-2) Flourish: Animated line chart for each country (or continent), Radar chart showing different combinations of factors (Finland, China, Afghanistan), Animated scatter plot between GDP-Life expectancy
-3) Python: Correlation heat map
+1. Tableau: Line chart from 2010-2019 for all countries, World heat map, Bar graph on social support score
+2. Flourish: Animated line chart for each country (or continent), Radar chart showing different combinations of factors (Finland, China, Afghanistan), Animated scatter plot between GDP-Life expectancy
+3. Python: Correlation heat map
