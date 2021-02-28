@@ -25,12 +25,9 @@ Original source: [WHR website](https://worldhappiness.report/ed/2020/#read){:tar
 
 ### 2. Vaccine availability
 
-1. Vaccine availability map 1: Launch & Scale Speedometer released the timeline of COVID vaccine procurement deals as a tableau visualization. Because I will only use this data as a supplement material in the call-to-action section, I am planning to embed this Tableau visualization in the story and clearly specify the source. 
-
+1. Vaccine availability map 1: Launch & Scale Speedometer released the timeline of COVID vaccine procurement deals as a tableau visualization. Because I will only use this data as a supplement material in the call-to-action section, I am planning to embed this Tableau visualization in the story and clearly specify the source.
 Source: [Launch & Scale Speedometer](https://launchandscalefaster.org/COVID-19){:target="_blank" rel="noopener"}
-
 2. Vaccine availability map 2: The map released by The Economist depicts the current assumptions for the global rollout of coronavirus vaccines, showing when we expect the shots to be widely available for the general population in each country. 
-
 Source: [The Economics](https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/){:target="_blank" rel="noopener"}
 
 ## <span style="color:#B07EB4">Initial Sketches</span>
