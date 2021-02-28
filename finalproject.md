@@ -37,7 +37,7 @@ If we look at the Average world happiness score, it looks like our lives are get
 1. Average happiness score line chart from 2010-2019 for all countries: The graph shows the overall world happiness score has been increasing.
 ![chart](vis_line chart.png)
 2. World heat map: However, it is clear that the happiness score shows inequalities among different countries.
-![chart](vis_world heat_happy.png)
+![chart](vis_worldheat2.png)
 
 ### 2. Gaps between countries
 How is the inequality serious and set in our lives? What would be the determinants? 
