@@ -7,7 +7,7 @@ Before I plotted the outline, I had run some exploratory analysis using Python. 
 
 ### 1. Happiness Score
 
-I analyzed the data used in the World Happiness Report (WHR) from 2005 to 2019. The data used in this study is comprehensive as shown in the [file](https://github.com/jessicacha/tswd/blob/main/WHR20data.xls). In the study, researchers have mainly used the ladder score and six key variables among the entire data in the file. 
+I analyzed the data used in the World Happiness Report (WHR) from 2005 to 2019. The data used in this study is comprehensive as shown in the [file](https://github.com/jessicacha/tswd/blob/main/WHR20data.xls){:target="_blank" rel="noopener"}. In the study, researchers have mainly used the ladder score and six key variables among the entire data in the file. 
 
 1. Ladder score (represented as Happiness score in my story): This score is used to determine the happiness ranking. It is important to note that the happiness ranking is not determined by the combination of six key variables. 
 
