@@ -30,4 +30,6 @@ You can see the visualizations [here](https://jessicacha.github.io/tswd/governme
 You can see the visualizations [here](https://jessicacha.github.io/tswd/covid19){:target="_blank" rel="noopener"}.
 
 ## 5. World Happiness (Final project)
-You can see my project [here](https://jessicacha.github.io/tswd/finalproject){:target="_blank" rel="noopener"}.
+You can see each part of my project in the links below. 
+[Part 1](https://jessicacha.github.io/tswd/finalproject){:target="_blank" rel="noopener"}
+[Part 2] (https://jessicacha.github.io/tswd/finalproject2){:target="_blank" rel="noopener"}
