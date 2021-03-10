@@ -15,3 +15,7 @@ Purpose:
 - To improve visualizations in more understandable way 
 
 ![user_data](user_data2.png)
+
+### 3. Note to self
+- Indicate the source / image source clearly in the final project
+- Rework on the covid-19 vaccine distribution map
