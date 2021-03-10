@@ -6,8 +6,10 @@ Please click [here](https://www.canva.com/design/DAEYHwVcpbc/91l8PpkGGIRxCeqzO9Y
 Purpose: 
 - To understand how people are engaged in the story
 - To spot any glaring issues that need immediate attention
+![user_story]
 
 ### 2. Data visualization
 Purpose: 
 - To understand if the visualizations support the story
 - To improve visualizations in more understandable way 
+![user_data]
