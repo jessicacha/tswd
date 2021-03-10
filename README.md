@@ -32,4 +32,4 @@ You can see the visualizations [here](https://jessicacha.github.io/tswd/covid19)
 ## 5. World Happiness (Final project)
 You can see each part of my project in the links below. 
 [Part 1](https://jessicacha.github.io/tswd/finalproject){:target="_blank" rel="noopener"}
-[Part 2] (https://jessicacha.github.io/tswd/finalproject2){:target="_blank" rel="noopener"}
+[Part 2](https://jessicacha.github.io/tswd/finalproject2){:target="_blank" rel="noopener"}
