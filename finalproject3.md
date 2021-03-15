@@ -1,1 +1,11 @@
-
+# Part 3: Final project
+## <span style="color:#B07EB4">Final story on shorthand</span>
+https://carnegiemellon.shorthandstories.com/the-world-happiness/index.html
+## <span style="color:#B07EB4">Changed target audience</span>
+I had the rich government and major vaccine companies as audiences in mind when I first wrote the story. This was because I thought they would have a bigger impact in bringing fair vaccine distribution to the world. However, as I conducted the user interviews, the interviewees got very much interested in the topic and asked me if there could be any ways that the general public could help people from poor countries. In addition, as I have been seeing some positive news from governments and vaccine companies fixing the problems, I thought changing the audiences to the general public would make more sense. As a result, I have added the information about the COVAX in the end, urging people to donate money for fair vaccine distribution. 
+## <span style="color:#B07EB4">Design choice for storytelling part</span>
+I tried to make the storytelling part as a photo journal style. As the story heavily covers the gap between countries and people’s lives, I wanted to share this uncomfortable truth in more visual ways. I have also captured the news articles as images, instead of displaying them as texts, to give a more vivid look of the news media. 
+## <span style="color:#B07EB4">Data visualization part</span>
+Instead of using heavy background, I used light background so that data visualizations get more attention. In order to prevent audiences’ excessive eye traveling, I have added the graphs on the left and explanations on the right throughout the story. To apply the feedback from user research, I have mainly used green color for positive indicators and red for the opposite case so that they can have consistency throughout the data part of the story. Also I have added the infographic along with the correlation heatmap, as some of the audiences were not able to understand the graph easily. 
+## <span style="color:#B07EB4">Future improvements</span>
+Not just from the world happiness report, I would like to research more about the inequalities in different countries from journals and papers. I might be interested in investigating various efforts people and institutions have been trying to reduce the gap. Also I will look into the World Happiness Report 2021, which will include the data from 2020, when it is published. It might be interesting to know how COVID-19 has affected our happiness and different factors. 
