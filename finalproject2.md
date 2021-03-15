@@ -8,7 +8,7 @@ Please click [here](https://www.canva.com/design/DAEYHwVcpbc/91l8PpkGGIRxCeqzO9Y
 - Also includes general public to bring their attention to the topic
 
 #### 2. Interviewee 
-Students in Carnegie Mellon iii program who have different levels of understanding in the data visualization field. (I was not able to reach out to major audiences due to the time limit of this project. I will try to reach out to them before delivering the final presentation.)
+4 students in Carnegie Mellon iii program who have different levels of understanding in the data visualization field. (I was not able to reach out to major audiences due to the time limit of this project. I will try to reach out to them before delivering the final presentation.)
 
 #### 3. Background
 Exploring the world has always been my passion. In this project, I would like to understand how different factors in our lives affect happiness. I will cover the inequalities of happiness throughout the different continents and countries, then look into the ways to mitigate this issue. 
