@@ -1,6 +1,6 @@
 # Part 3: Final project
 ## <span style="color:#B07EB4">Final story on shorthand</span>
-https://carnegiemellon.shorthandstories.com/the-world-happiness/index.html
+[Link](https://carnegiemellon.shorthandstories.com/the-world-happiness/index.html){:target="_blank" rel="noopener"}
 ## <span style="color:#B07EB4">Changed target audience</span>
 I had the rich government and major vaccine companies as audiences in mind when I first wrote the story. This was because I thought they would have a bigger impact in bringing fair vaccine distribution to the world. However, as I conducted the user interviews, the interviewees got very much interested in the topic and asked me if there could be any ways that the general public could help people from poor countries. In addition, as I have been seeing some positive news from governments and vaccine companies fixing the problems, I thought changing the audiences to the general public would make more sense. As a result, I have added the information about the COVAX in the end, urging people to donate money for fair vaccine distribution. 
 ## <span style="color:#B07EB4">Design choice for storytelling part</span>
