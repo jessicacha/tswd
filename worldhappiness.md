@@ -23,13 +23,13 @@ Cover page
 https://unsplash.com/photos/gEKMstKfZ6w
 Photo by Ben White on Unsplash licensed under an Unsplash license
 
-Exploring the world
+Exploring the world<br>
 1) Map: https://www.amcharts.com/visited_countries/
 
 2) Graphic: https://br.freepik.com/vetores-premium/aprenda-e-estude-o-design-plano-de-idiomas-mao-com-telefone-e-saudacoes-em-diferentes-idiomas_8924367.htm
 Photo by kirasolly on Freepik licensed under an Freepik license agreement
 
-Facing the uncomfortable truth
+Facing the uncomfortable truth<br>
 1) River house: https://www.shutterstock.com/image-photo/riverside-stilt-houses-mekong-delta-south-466387349
 Photo by Claudiovidri on Shutterstock licensed under an Shutterstock License Agreement
 
@@ -42,12 +42,12 @@ Photo by Impact Photography on Shutterstock licensed under an Shutterstock Licen
 4) Girls working: https://unsplash.com/photos/yzWsUA09k8E
 Photo by Jordan Rowland on Unsplash licensed under an Unsplash license
 
-World happiness report
+World happiness report<br>
 1) First cover: https://issuu.com/earthinstitute/docs/world-happiness-report
 
 2) Second cover: https://www.eurekalert.org/pub_releases/2015-04/cifa-whr042315.php
 
-A new kind of inequality
+A new kind of inequality<br>
 1) Stick figures: https://www.shutterstock.com/image-photo/human-stick-figures-reaching-covid19-vaccine-1766805665
 Photo by sulit.photos on Shutterstock licensed under an Shutterstock License Agreement
 
@@ -60,6 +60,6 @@ Photo by ALDECA studio on Shutterstock licensed under an Shutterstock License Ag
 4) People with masks: https://unsplash.com/photos/5hp3iqwZXD8
 Photo by United Nations COVID-19 Response on Unsplash licensed under an Unsplash license
 
-Becoming friendly neighbors
+Becoming friendly neighbors<br>
 https://www.shutterstock.com/image-photo/home-delivering-some-groceries-quarantine-coronavirus-1692173527
 Photo by Mabeline72 on Shutterstock licensed under an Shutterstock License Agreement
