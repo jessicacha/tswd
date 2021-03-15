@@ -6,17 +6,17 @@
 [Part 2](https://jessicacha.github.io/tswd/finalproject2){:target="_blank" rel="noopener"}<br/>
 [Part 3](https://jessicacha.github.io/tswd/finalproject3){:target="_blank" rel="noopener"}<br/>
 ## <span style="color:#B07EB4">References</span>
-Wikipedia contributors. (2014, April 24). World Happiness Report. Wikipedia. https://en.wikipedia.org/wiki/World_Happiness_Report
-Helliwell, J. F., Layard, R., Sachs, J. D., Neve, J. D., & Wang, S. (2019). World Happiness Report 2020, 19-22.
-Malash, V. (2021, February 19). More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023. Economist Intelligence Unit. https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/
-Unprotected African health workers die as rich countries buy up COVID-19 vaccines. (2021, February 17). Science | AAAS. https://www.sciencemag.org/news/2021/02/unprotected-african-health-workers-die-rich-countries-buy-covid-19-vaccines
-Al Jazeera. (2021, February 19). Rich nations ‘hoarding’ a billion doses of excess COVID vaccine. Coronavirus Pandemic News | Al Jazeera. https://www.aljazeera.com/news/2021/2/19/covid-vaccine
-Berger, M. (2021, February 23). Global vaccine inequality runs deep. Some countries say intellectual property rights are part of the problem. Washington Post.https://www.washingtonpost.com/world/2021/02/20/poor-countries-arent-getting-vaccines-waiving-intellectual-property-rights-could-help/
-How to stop vaccine nationalism from prolonging the pandemic. (2021, February 19). Fortune. https://fortune.com/2021/02/07/covid-vaccine-nationalism-global-south-inequality-coronavirus/
-Reals, T. (2021, February 20). Biden pledges up to $4 billion to help get poorer countries vaccinated against COVID-19. CBS News. https://www.cbsnews.com/news/biden-covid-vaccine-covax-4-billion-pledge-poor-countries-coronavirus-equity/
-Berger, M. (2021b, March 5). WHO head pushes for waiver of some intellectual property rights for coronavirus vaccines, in bid to broaden access. Washington Post. https://www.washingtonpost.com/world/2021/03/05/tedros-who-covid-vaccines-rights/
-2.2 million COVID-19 vaccines allocated by the COVAX Facility arrive in Ethiopia, marking the start of the country’s COVID-19 vaccination campaign. (2021, March 13). WHO | Regional Office for Africa. https://www.afro.who.int/news/22-million-covid-19-vaccines-allocated-covax-facility-arrive-ethiopia-marking-start-countrys
-COVAX explained. (2021, January 21). Gavi, the Vaccine Alliance. https://www.gavi.org/vaccineswork/covax-explained
+Wikipedia contributors. (2014, April 24). World Happiness Report. Wikipedia. https://en.wikipedia.org/wiki/World_Happiness_Report<br>
+Helliwell, J. F., Layard, R., Sachs, J. D., Neve, J. D., & Wang, S. (2019). World Happiness Report 2020, 19-22.<br>
+Malash, V. (2021, February 19). More than 85 poor countries will not have widespread access to coronavirus vaccines before 2023. Economist Intelligence Unit. https://www.eiu.com/n/85-poor-countries-will-not-have-access-to-coronavirus-vaccines/<br>
+Unprotected African health workers die as rich countries buy up COVID-19 vaccines. (2021, February 17). Science | AAAS. https://www.sciencemag.org/news/2021/02/unprotected-african-health-workers-die-rich-countries-buy-covid-19-vaccines<br>
+Al Jazeera. (2021, February 19). Rich nations ‘hoarding’ a billion doses of excess COVID vaccine. Coronavirus Pandemic News | Al Jazeera. https://www.aljazeera.com/news/2021/2/19/covid-vaccine<br>
+Berger, M. (2021, February 23). Global vaccine inequality runs deep. Some countries say intellectual property rights are part of the problem. Washington Post.https://www.washingtonpost.com/world/2021/02/20/poor-countries-arent-getting-vaccines-waiving-intellectual-property-rights-could-help/<br>
+How to stop vaccine nationalism from prolonging the pandemic. (2021, February 19). Fortune. https://fortune.com/2021/02/07/covid-vaccine-nationalism-global-south-inequality-coronavirus/<br>
+Reals, T. (2021, February 20). Biden pledges up to $4 billion to help get poorer countries vaccinated against COVID-19. CBS News. https://www.cbsnews.com/news/biden-covid-vaccine-covax-4-billion-pledge-poor-countries-coronavirus-equity/<br>
+Berger, M. (2021b, March 5). WHO head pushes for waiver of some intellectual property rights for coronavirus vaccines, in bid to broaden access. Washington Post. https://www.washingtonpost.com/world/2021/03/05/tedros-who-covid-vaccines-rights/<br>
+2.2 million COVID-19 vaccines allocated by the COVAX Facility arrive in Ethiopia, marking the start of the country’s COVID-19 vaccination campaign. (2021, March 13). WHO | Regional Office for Africa. https://www.afro.who.int/news/22-million-covid-19-vaccines-allocated-covax-facility-arrive-ethiopia-marking-start-countrys<br>
+COVAX explained. (2021, January 21). Gavi, the Vaccine Alliance. https://www.gavi.org/vaccineswork/covax-explained<br>
 ## <span style="color:#B07EB4">Image Sources</span>
 Cover page
 https://unsplash.com/photos/gEKMstKfZ6w
