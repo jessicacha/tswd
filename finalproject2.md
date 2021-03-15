@@ -1,6 +1,6 @@
 # Part 2: Final project
 ## <span style="color:#B07EB4">Storyboard</span>
-Please click [here](https://www.canva.com/design/DAEYHwVcpbc/91l8PpkGGIRxCeqzO9YsVg/view?utm_content=DAEYHwVcpbc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton){:target="_blank" rel="noopener"} to see the storyboard. 
+Please click [here](https://www.canva.com/design/DAEYHwVcpbc/91l8PpkGGIRxCeqzO9YsVg/view?utm_content=DAEYHwVcpbc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink){:target="_blank" rel="noopener"} to see the storyboard. 
 ## <span style="color:#B07EB4">User Research</span>
 ### 1. Research Protocol
 #### 1. Target audience 
